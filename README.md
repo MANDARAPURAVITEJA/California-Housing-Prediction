@@ -79,3 +79,7 @@ To stop docker container
 ```
 docker stop <container_id>
 ```
+To run the setup.py file
+```
+python setup.py python
+```
