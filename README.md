@@ -83,3 +83,7 @@ To run the setup.py file
 ```
 python setup.py python
 ```
+Install ipykernel
+```
+pip install ipykernel
+```
