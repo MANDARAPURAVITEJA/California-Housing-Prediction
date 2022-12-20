@@ -26,7 +26,6 @@ TRAINING_PIPELINE_NAME_KEY = "pipeline_name"
 
 
 # Data Ingestion related variable
-
 DATA_INGESTION_CONFIG_KEY = "data_ingestion_config"
 DATA_INGESTION_ARTIFACT_DIR = "data_ingestion"
 DATA_INGESTION_DOWNLOAD_URL_KEY = "dataset_download_url"
