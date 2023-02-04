@@ -1,4 +1,4 @@
-# California Housing Prediction
+# California Housing Prediction Model
 
 ## 🪄 About
 This is an End-to-End Machine Learning project. The project aims at developing a Regression model for predicting Median house value for households within a block in California.
