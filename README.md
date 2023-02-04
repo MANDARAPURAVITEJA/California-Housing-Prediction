@@ -108,11 +108,11 @@ To check the git status
 ```
 git status
 ```
-To check all versions maintained by git
+To check all versions maintained by git.
 ```
 git log
 ```
-To create version/commit all the changes to git
+To create version/commit all the changes to git.
 ```
 git commit -m "Message"
 ```
@@ -155,7 +155,7 @@ To check running container in docker
 ```
 docker ps
 ```
-To stop docker container
+To stop docker container.
 ```
 docker stop <container_id>
 ```
